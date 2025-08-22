@@ -1,0 +1,542 @@
+{
+  "transactions": [
+    {
+      "merchant": "Rs",
+      "amount": 3187.63,
+      "date": "2025-08-20",
+      "category": "Other",
+      "email_id": "198c5ae02148d729",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Ola",
+      "amount": 1118.05,
+      "date": "2025-08-19",
+      "category": "Transportation",
+      "email_id": "198c1eb8e4c4cbff",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "You",
+      "amount": 5040.0,
+      "date": "2025-08-18",
+      "category": "Other",
+      "email_id": "198bda6b9701758f",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Amazon",
+      "amount": 1695.0,
+      "date": "2025-08-18",
+      "category": "Shopping",
+      "email_id": "198b9773af95d212",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "View",
+      "amount": 11001.0,
+      "date": "2025-08-17",
+      "category": "Other",
+      "email_id": "198b692954449237",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "View",
+      "amount": 21001.0,
+      "date": "2025-08-17",
+      "category": "Other",
+      "email_id": "198b691cf78b2dd9",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 210.8,
+      "date": "2025-08-16",
+      "category": "Food",
+      "email_id": "198b231c4afc2588",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Rs",
+      "amount": 7490.0,
+      "date": "2025-08-15",
+      "category": "Other",
+      "email_id": "198ad475525a4ff2",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Fwd",
+      "amount": 4678.0,
+      "date": "2025-04-07",
+      "category": "Other",
+      "email_id": "198aca28c04626bd",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Fwd",
+      "amount": 1895.0,
+      "date": "2025-05-16",
+      "category": "Other",
+      "email_id": "198aca213dbcca1f",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Fwd",
+      "amount": 25364.0,
+      "date": "2025-09-02",
+      "category": "Other",
+      "email_id": "198ac9e4279a2bd2",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 391.8,
+      "date": "2025-08-15",
+      "category": "Food",
+      "email_id": "198ac11ce5e81923",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "View",
+      "amount": 3000.0,
+      "date": "2025-08-14",
+      "category": "Other",
+      "email_id": "198a990abf1589db",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Your",
+      "amount": 25364.0,
+      "date": "2025-09-02",
+      "category": "Other",
+      "email_id": "198a89b49bc8db00",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 166.67,
+      "date": "2025-08-13",
+      "category": "Other",
+      "email_id": "198a316596af05f7",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 133.34,
+      "date": "2025-08-13",
+      "category": "Other",
+      "email_id": "198a316066d283a0",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 1001.0,
+      "date": "2025-08-11",
+      "category": "Other",
+      "email_id": "1989a37f51b34029",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Rs",
+      "amount": 2607.0,
+      "date": "2025-08-10",
+      "category": "Other",
+      "email_id": "19893712cdaf633c",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 617.55,
+      "date": "2025-08-10",
+      "category": "Food",
+      "email_id": "1989273187dca186",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Rs",
+      "amount": 6628.0,
+      "date": "2025-08-09",
+      "category": "Other",
+      "email_id": "1988fe3f95c15530",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Rs",
+      "amount": 175.0,
+      "date": "2025-08-09",
+      "category": "Other",
+      "email_id": "1988f440471911c7",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 233.48,
+      "date": "2025-08-09",
+      "category": "Food",
+      "email_id": "1988d88dee517f24",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 246.8,
+      "date": "2025-08-09",
+      "category": "Food",
+      "email_id": "1988d82c70b44296",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Your",
+      "amount": 11000.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "19889e00100852f3",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Your",
+      "amount": 11000.0,
+      "date": "2025-08-08",
+      "category": "Other",
+      "email_id": "19887f039f47037b",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 1500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "19884421ed153c29",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 31500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "198843f4ccf195c3",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 22000.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "198843e8434b79a7",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 12500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "198843cc5ed53c05",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 8000.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "198843b13979e066",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 8500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "19884399073ea8c8",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 6500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "1988438beab07eb8",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Account",
+      "amount": 5500.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "1988437e3970480d",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 11000.0,
+      "date": "2025-08-07",
+      "category": "Other",
+      "email_id": "198821630f82b6ce",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 570.0,
+      "date": "2025-08-06",
+      "category": "Other",
+      "email_id": "1987de3c88efcfa0",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 139.0,
+      "date": "2025-08-06",
+      "category": "Other",
+      "email_id": "1987d6e329737da0",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Your",
+      "amount": 11000.0,
+      "date": "2025-08-05",
+      "category": "Other",
+      "email_id": "1987831ab6207bbb",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 210.0,
+      "date": "2025-08-04",
+      "category": "Other",
+      "email_id": "19875fdc812acc3b",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "View",
+      "amount": 210.0,
+      "date": "2025-08-04",
+      "category": "Other",
+      "email_id": "19875fc77a618d77",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 557.8,
+      "date": "2025-08-03",
+      "category": "Food",
+      "email_id": "1987091112603bd9",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "You",
+      "amount": 249.0,
+      "date": "2025-08-03",
+      "category": "Other",
+      "email_id": "1987050a8d7f9fe6",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 500.0,
+      "date": "2025-08-03",
+      "category": "Other",
+      "email_id": "1986e8c0099ea19f",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Alert",
+      "amount": 3998.4,
+      "date": "2025-08-02",
+      "category": "Other",
+      "email_id": "1986a858d85f6712",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Alert",
+      "amount": 100.0,
+      "date": "2025-08-02",
+      "category": "Other",
+      "email_id": "1986a01121fdca3f",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Paytm",
+      "amount": 1244.0,
+      "date": "2025-08-01",
+      "category": "Digital Wallet",
+      "email_id": "19866be64773f304",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "You",
+      "amount": 800.0,
+      "date": "2025-07-31",
+      "category": "Other",
+      "email_id": "198619663d2d65ac",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 41.67,
+      "date": "2025-07-31",
+      "category": "Other",
+      "email_id": "198613ebab785061",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 23449.0,
+      "date": "2025-07-31",
+      "category": "Other",
+      "email_id": "1985fd4a2aedff42",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Your",
+      "amount": 23468.0,
+      "date": "2025-08-02",
+      "category": "Other",
+      "email_id": "1985f9b4e056f919",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Paytm",
+      "amount": 1616.0,
+      "date": "2025-07-31",
+      "category": "Digital Wallet",
+      "email_id": "1985e872276924e8",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "You",
+      "amount": 700.0,
+      "date": "2025-07-30",
+      "category": "Other",
+      "email_id": "1985788701333963",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Your",
+      "amount": 23468.0,
+      "date": "2025-08-02",
+      "category": "Other",
+      "email_id": "1985523ac6332079",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 1551.78,
+      "date": "2025-07-29",
+      "category": "Food",
+      "email_id": "19854941737d61d6",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Scheduled",
+      "amount": 8.0,
+      "date": "2025-07-29",
+      "category": "Other",
+      "email_id": "19853dcad607ac2e",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Payment",
+      "amount": 700.0,
+      "date": "2025-07-27",
+      "category": "Other",
+      "email_id": "1984ceed1bcc8fa1",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 200.0,
+      "date": "2025-07-27",
+      "category": "Other",
+      "email_id": "1984c30e2a2a66cf",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 1000.0,
+      "date": "2025-07-27",
+      "category": "Other",
+      "email_id": "1984c30458c8a23e",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 5932.4,
+      "date": "2025-07-19",
+      "category": "Food",
+      "email_id": "198238cf95b2b8ff",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 150.0,
+      "date": "2025-07-19",
+      "category": "Food",
+      "email_id": "1982300f534d1095",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Update",
+      "amount": 15.0,
+      "date": "2025-07-19",
+      "category": "Other",
+      "email_id": "19822c32420b7169",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 1449.0,
+      "date": "2025-07-19",
+      "category": "Other",
+      "email_id": "19822c07c22bc271",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 729.42,
+      "date": "2025-07-18",
+      "category": "Other",
+      "email_id": "1981ded4b14e3526",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "You",
+      "amount": 1250.0,
+      "date": "2025-07-18",
+      "category": "Other",
+      "email_id": "1981de7f43e777f3",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Uber",
+      "amount": 123.0,
+      "date": "2025-07-17",
+      "category": "Transportation",
+      "email_id": "19818bf87d94b693",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 782.5,
+      "date": "2025-07-17",
+      "category": "Food",
+      "email_id": "19817991222890e0",
+      "confidence": 1.0
+    },
+    {
+      "merchant": "You",
+      "amount": 2397.0,
+      "date": "2025-07-17",
+      "category": "Other",
+      "email_id": "19815501eb0007a0",
+      "confidence": 0.8
+    },
+    {
+      "merchant": "Zomato",
+      "amount": 1660.09,
+      "date": "2025-07-16",
+      "category": "Food",
+      "email_id": "19813d25cabdc895",
+      "confidence": 1.0
+    }
+  ],
+  "count": 67,
+  "emails_processed": 100
+}

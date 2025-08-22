@@ -1,0 +1,6539 @@
+[
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198ca28a487da3e4"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "ZEPTO MARKETPLACE PRIV",
+      "amount": 3187.63,
+      "currency": "INR",
+      "date": "2025-08-20",
+      "category": "Food/Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198c5ae02148d729"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "SOLARA",
+      "amount": 1118.05,
+      "currency": "INR",
+      "date": "2025-08-19",
+      "category": "Utilities",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198c1eb8e4c4cbff"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198bdafffd19333a"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "Crown Veterinary Services Pvt Ltd",
+      "amount": 5040,
+      "currency": "INR",
+      "date": "2025-08-18",
+      "category": "Pet Care",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198bda6b9701758f"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Amazon Pay Groceries",
+      "amount": 1695,
+      "currency": "INR",
+      "date": "2025-08-18",
+      "category": "Groceries",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198b9773af95d212"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198b5d6514be801f"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 210.8,
+      "currency": "INR",
+      "date": "2025-08-16",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198b231c4afc2588"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "CROMA",
+      "amount": 7490,
+      "currency": "INR",
+      "date": "2025-08-15",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198ad475525a4ff2"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 391.8,
+      "currency": "INR",
+      "date": "2025-08-15",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198ac11ce5e81923"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": 25364,
+      "currency": "INR",
+      "date": "2025-08-00",
+      "category": "Credit Card Bill",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": "Credit Card",
+      "provider": "HDFC Bank",
+      "amount": 25364,
+      "due_date": "2025-09-02"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198a89b49bc8db00"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "VPA pratameshjadhav@okhdfcbank",
+      "amount": 166.67,
+      "currency": "INR",
+      "date": "2025-08-13",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198a316596af05f7"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "VPA pratameshjadhav@okhdfcbank",
+      "amount": 133.34,
+      "currency": "INR",
+      "date": "2025-08-13",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198a316066d283a0"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "VPA nk461993@okicici",
+      "amount": 1001,
+      "currency": "INR",
+      "date": "2025-08-11",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1989a37f51b34029"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.2
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "CDSL",
+      "instrument": "Mutual Funds and Securities",
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19895ccd5b917a62"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Hotel Persian Darbar",
+      "amount": 2607,
+      "currency": "INR",
+      "date": "2025-08-10",
+      "category": "Hotel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": "Hotel Persian Darbar",
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19893712cdaf633c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 617.55,
+      "currency": "INR",
+      "date": "2025-08-10",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1989273187dca186"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "DISTRICT DINING CYBS",
+      "amount": 6628,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1988fe3f95c15530"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "RSP*DISTRICT DINING RZ",
+      "amount": 175,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1988f440471911c7"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 233.48,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1988d88dee517f24"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 246.8,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1988d82c70b44296"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-08-07",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "VOO (US Stocks)",
+      "amount": 11000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "19889e00100852f3"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": 11000,
+      "currency": "INR",
+      "date": null,
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks",
+      "amount": 11000,
+      "action": "deposit"
+    },
+    "is_relevant": true,
+    "email_id": "19887f039f47037b"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "INDmoney",
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-08-07",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198821630f82b6ce"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "Indian Railways UTS",
+      "amount": 570,
+      "currency": "INR",
+      "date": "2025-08-06",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1987de3c88efcfa0"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Spotify India LLP",
+      "amount": 139,
+      "currency": "INR",
+      "date": "2025-08-06",
+      "category": "Entertainment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": "Spotify",
+      "amount": 139,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1987d6e329737da0"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks",
+      "amount": 11000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "1987831ab6207bbb"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "VEDANT SANJAY LAHANE",
+      "amount": 210,
+      "currency": "INR",
+      "date": "2025-08-04",
+      "category": "Transfer",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19875fdc812acc3b"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198758eae8bea87a"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "M S SHIVRAJ",
+      "amount": 249,
+      "currency": "INR",
+      "date": "2025-08-03",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1987050a8d7f9fe6"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "GLORIA S SEAFOOD",
+      "amount": 500,
+      "currency": "INR",
+      "date": "2025-08-03",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1986e8c0099ea19f"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1986df366e928d50"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1986c12d4e3db211"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "Annamaya",
+      "amount": 1244,
+      "currency": "INR",
+      "date": "2025-08-01",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19866be64773f304"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "RAMPUNJAB RESTAURANT AND BAR",
+      "amount": 800,
+      "currency": "INR",
+      "date": "2025-07-31",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198619663d2d65ac"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "ANSHUMAN MANOJKUMAR TIWARI",
+      "amount": 41.67,
+      "currency": "INR",
+      "date": "2025-07-31",
+      "category": "null",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "198613ebab785061"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "CRED Club",
+      "amount": 23449,
+      "currency": "INR",
+      "date": "2025-07-31",
+      "category": "Credit Card Payment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1985fd4a2aedff42"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": "credit card",
+      "provider": "HDFC Bank",
+      "amount": 23468,
+      "due_date": "2025-08-02"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1985f9b4e056f919"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "Blinkit",
+      "amount": 1616,
+      "currency": "INR",
+      "date": "2025-07-31",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1985e872276924e8"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198589e65718a91d"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Mohd Haseeb",
+      "amount": 700,
+      "currency": "INR",
+      "date": "2025-07-30",
+      "category": "null",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1985788701333963"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": "credit card",
+      "provider": "HDFC Bank",
+      "amount": 23468,
+      "due_date": "2025-08-02"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1985523ac6332079"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "SNV Aviation Pvt Ltd (Akasa Air)",
+      "amount": 700,
+      "currency": "INR",
+      "date": "2025-07-27",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": "Akasa Air",
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": 700
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1984ceed1bcc8fa1"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "BLOSSOM BOOK HOUSE",
+      "amount": 200,
+      "currency": "INR",
+      "date": "2025-07-27",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1984c30e2a2a66cf"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "BLOSSOM BOOK HOUSE",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-07-27",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1984c30458c8a23e"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1983b6ee86a97448"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "LEVI",
+      "amount": 1449,
+      "currency": "INR",
+      "date": "2025-07-19",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19822c07c22bc271"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "198223edfb179125"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "SOHUM VIVEK KHOT",
+      "amount": 729.42,
+      "currency": "INR",
+      "date": "2025-07-18",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1981ded4b14e3526"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "CHIRAG AVINASH SHETTY",
+      "amount": 1250,
+      "currency": "INR",
+      "date": "2025-07-18",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1981de7f43e777f3"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "THE MINIMAL CLOSET",
+      "amount": 2397,
+      "currency": "INR",
+      "date": "2025-07-25",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19815501eb0007a0"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": 23468,
+      "due_date": "2025-08-02"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1980912df40ed055"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1980735faf830edc"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "ZEPTONOW",
+      "amount": 5629.79,
+      "currency": "INR",
+      "date": "2025-07-13",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19804e9fe6a81697"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "197ffa2ef395e8fe"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "PRATHAMESH VIJAY JADHAV",
+      "amount": 355.77,
+      "currency": "INR",
+      "date": "2025-07-11",
+      "category": "null",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197fa02cd3b26675"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "197f6c6ab3adb20f"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": "2025-07-29",
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197ee90c04b3808a"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": "2025-07-29",
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197ee8a9da1de81c"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": "2025-07-25",
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197ee8a95545a4b1"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "travelogy.online",
+      "amount": 7159,
+      "currency": "INR",
+      "date": null,
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197ee8a7009b2002"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.2
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "Vanguard S&P 500 ETF",
+      "amount": null,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "197edf3f8391abd8"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "CDSL",
+      "instrument": "Mutual Funds and Securities",
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197eb30a0f00f021"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-07-07",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "VOO (US Stocks)",
+      "amount": 11000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "197ea3ad4082e360"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "Indian Stocks",
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197e99a8b6d4783a"
+  },
+  {
+    "email_index": 1,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks",
+      "amount": 11000,
+      "action": "deposit"
+    },
+    "is_relevant": true,
+    "email_id": "197e84bc216111c3"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "CONFIRM TICKET ONLINE",
+      "amount": 4236,
+      "currency": "INR",
+      "date": "2025-07-07",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197e5e4dd44afc39"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "INDmoney",
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-07-07",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197e27199f4de036"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "Indian Railways UTS",
+      "amount": 570,
+      "currency": "INR",
+      "date": "2025-06-07",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197de3885cac5f16"
+  },
+  {
+    "email_index": 5,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "Indian Stocks",
+      "amount": 100,
+      "action": "withdrawal"
+    },
+    "is_relevant": true,
+    "email_id": "197d97458a1accea"
+  },
+  {
+    "email_index": 1,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks (VOO)",
+      "amount": 11000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "197d88c90f3d1ee8"
+  },
+  {
+    "email_index": 2,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "197d6439ac40d74d"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "M s Khasi Emporium",
+      "amount": 1260,
+      "currency": "INR",
+      "date": "2025-07-03",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197d0b0796c3b22d"
+  },
+  {
+    "email_index": 4,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "197c9d35b8d910a4"
+  },
+  {
+    "email_index": 5,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "197c9473c718c519"
+  },
+  {
+    "email_index": 1,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "197c68f5d23d5b82"
+  },
+  {
+    "email_index": 2,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "197ae9ff5b3669be"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "VPA q142547856@ybl SACHIN BHASKAR KADAM",
+      "amount": 550,
+      "currency": "INR",
+      "date": "2025-06-23",
+      "category": "Transfer",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1979d41320cd5c7f"
+  },
+  {
+    "email_index": 4,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "19791dedb9b17b38"
+  },
+  {
+    "email_index": 5,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "Mutual Fund",
+      "amount": 123000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "19786099dfe07575"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "MUMBAI METRO ONE",
+      "amount": 40,
+      "currency": "INR",
+      "date": "2025-06-18",
+      "category": "Transportation",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19783b60cebffa26"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": "2025-06-18",
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.3
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "Nippon India Mutual Fund",
+      "instrument": "Mutual Fund",
+      "amount": null,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "1978110c4c42f138"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.2
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "Mutual Fund",
+      "amount": 124000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "1977dd6611dee57f"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "INDmoney",
+      "amount": 124000,
+      "currency": "INR",
+      "date": "2025-06-17",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1977dd656c84d3f3"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.1
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "197771e513ce22a8"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": 81096,
+      "currency": "INR",
+      "date": null,
+      "category": "Credit Card Payment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": "2025-07-03"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1976e1d92250974c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "ANSHUMAN MANOJKUMAR TIWARI",
+      "amount": 217.08,
+      "currency": "INR",
+      "date": "2025-06-14",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1976d3dc742a63b5"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "CRED Club",
+      "amount": 81046,
+      "currency": "INR",
+      "date": "2025-06-14",
+      "category": "Credit Card Payment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1976d2b14cf9dc9e"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": 250,
+      "currency": "INR",
+      "date": null,
+      "category": "Reward",
+      "transaction_type": "income",
+      "confidence": 0.7
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197620a7d9b68c15"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.3
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "VANGUARD S&P 500 ETF",
+      "amount": null,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "1975dbb5a7519fe8"
+  },
+  {
+    "email_index": 1,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1975847589cf8d4a"
+  },
+  {
+    "email_index": 2,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks",
+      "amount": 11000,
+      "action": "deposit"
+    },
+    "is_relevant": true,
+    "email_id": "19757febfdbec4d0"
+  },
+  {
+    "email_index": 3,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1975460d8acf2dae"
+  },
+  {
+    "email_index": 4,
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "19753cc3c12f210c"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "INDmoney",
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-06-09",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197525d2822253a8"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Persian Darbar Byculla East",
+      "amount": 906,
+      "currency": "INR",
+      "date": "2025-06-08",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1974efeb46ea36cf"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "Indian Railways UTS",
+      "amount": 570,
+      "currency": "INR",
+      "date": "2025-06-08",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1974ee1f98aaa91a"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1974bb25926f69f1"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "Nothing But Chicken",
+      "amount": 396,
+      "currency": "INR",
+      "date": "2025-06-07",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1974ae1041f9df94"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "ROHIT BALANATH PILLA",
+      "amount": 750,
+      "currency": "INR",
+      "date": "2025-06-07",
+      "category": "Personal Transfer",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1974848ad57313d3"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "PRATHAMESH VIJAY JADHAV",
+      "amount": 269.23,
+      "currency": "INR",
+      "date": "2025-06-05",
+      "category": "null",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1973e9362275684c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.6
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "US Stocks",
+      "amount": 11000,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "1973e0d3f72afd19"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "SHASHIKANT TANAJI KADAM",
+      "amount": 160,
+      "currency": "INR",
+      "date": "2025-06-04",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1973b4b6b3367e63"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "PRATHAMESH VIJAY JADHAV",
+      "amount": 35.72,
+      "currency": "INR",
+      "date": "2025-06-04",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1973b4ad7189a001"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "SAI VENKATA REDDY ANUMULA",
+      "amount": 115.39,
+      "currency": "INR",
+      "date": "2025-06-04",
+      "category": null,
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1973b4a4ff31e286"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Airtel",
+      "amount": 799,
+      "currency": "INR",
+      "date": "2025-06-02",
+      "category": "Mobile Recharge",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19731e45fe9fcd6c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "Amazon Pay Groceries",
+      "amount": 2173,
+      "currency": "INR",
+      "date": "2025-06-02",
+      "category": "Groceries",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "19731e13b435e2e0"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "19731618e9c5613f"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1972fbc4a3e558a2"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1972d4f5944c3191"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "Nothing But Chicken",
+      "amount": 470,
+      "currency": "INR",
+      "date": "2025-06-01",
+      "category": "Food",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1972c26746e07fb1"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "CRED Club",
+      "amount": 7937,
+      "currency": "INR",
+      "date": "2025-06-01",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197291d2f20dc1bd"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "Sports Wale",
+      "amount": 480,
+      "currency": "INR",
+      "date": "2025-05-31",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "1972616e5c9a3ed0"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0.2
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "1971437c88a419e2"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "PRATHAMESH VIJAY JADHAV",
+      "amount": 133.34,
+      "currency": "INR",
+      "date": "2025-05-27",
+      "category": "Transfer",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197102fac388a57b"
+  },
+  {
+    "transaction": {
+      "merchant": null,
+      "amount": 756.37,
+      "currency": "INR",
+      "date": "2025-05-27",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "197102f38cce66ea"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1970222d4c25fa4b"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 250,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196f67215698584c"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 250,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196f5dd29341a4fb"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 800,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196f47d1b2534124"
+  },
+  {
+    "transaction": {
+      "merchant": "Stocks",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196e87ea38f4d923"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196e769092e09c9d"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196e7112fd297c09"
+  },
+  {
+    "transaction": {
+      "merchant": "Stocks",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196e6ec732c6c943"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196e6bf7d8beb805"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196e67bb7b2aedd4"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 2057,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196e49ad7095ca7b"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196e156043601bc0"
+  },
+  {
+    "transaction": {
+      "merchant": "Stocks",
+      "amount": 11000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196d93c5ca15b3a2"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196d8de4d543b663"
+  },
+  {
+    "transaction": {
+      "merchant": "Stocks",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196d84d3e94305f9"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196d837210f35295"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196d81c8e510d333"
+  },
+  {
+    "transaction": {
+      "merchant": "Congratulations",
+      "amount": 100,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196d7d73816e3391"
+  },
+  {
+    "transaction": {
+      "merchant": null,
+      "amount": 100,
+      "currency": "INR",
+      "date": "2025-05-16",
+      "category": "Investment",
+      "transaction_type": "transfer",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": "stocks",
+      "amount": 100,
+      "action": "deposit"
+    },
+    "is_relevant": true,
+    "email_id": "196d7d56fd8b8bc7"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "INDmoney",
+      "amount": 100,
+      "currency": "INR",
+      "date": "2025-05-16",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDmoney",
+      "instrument": null,
+      "amount": 100,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "196d7d56a0523205"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": false,
+    "email_id": "196d7d2e8ac9b193"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "INDMONEY PRIVATE LIMITED",
+      "amount": 1,
+      "currency": "INR",
+      "date": "2025-05-16",
+      "category": "Investment",
+      "transaction_type": "expense",
+      "confidence": 0.8
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": "INDMONEY",
+      "instrument": null,
+      "amount": 1,
+      "action": "buy"
+    },
+    "is_relevant": true,
+    "email_id": "196d7d2defdd408b"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "confidence": 0
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": "Credit Card",
+      "provider": "HDFC Bank",
+      "amount": 7937,
+      "due_date": "2025-06-02"
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "196cdf3aba097b63"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "AYUSH SHARMA",
+      "amount": 170,
+      "currency": "INR",
+      "date": "2025-05-13",
+      "category": "Personal",
+      "transaction_type": "expense",
+      "confidence": 0.9
+    },
+    "income": {
+      "employer": null,
+      "amount": null,
+      "pay_cycle": null,
+      "date": null
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null
+    },
+    "investment": {
+      "platform": null,
+      "instrument": null,
+      "amount": null,
+      "action": null
+    },
+    "is_relevant": true,
+    "email_id": "196ca42c90d31727"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 210,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196b5b15a253162e"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1216.7,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196b40667752bf2e"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 570,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196a72166d55ac7a"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1968dc54418d27e2"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19689bb83d09beb0"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 50000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1967ad490773488d"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 31,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196737d56f4b1f80"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 350,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1967262fb5218eed"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 90,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1967229f45a67d61"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 510.9,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1966dc925d5c89e5"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 190,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1965e17d3d938a13"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 430,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196541e021c7c25a"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 120,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19653ec73dbb0bb1"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1831.6,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1964e135c19217d9"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1662.32,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1963a2a7f35ac5c7"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 485,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196374f0cb2c98d3"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 380.8,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196300bf0fd48c56"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 160,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962fd95eee1ee5a"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1962e7eede03815e"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 167,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962df1b56ad6696"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 3198,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962de37a37c3ff6"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 3198,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962ddb495884656"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1310,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962d824c0de74c3"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1825,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1962a5da03e71420"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 306.6,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196291712682bd02"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1962399e5f67303f"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 380,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1961b4af9cb17721"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196199e247e9947e"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19613cbb4ee977aa"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 4678,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19610cbd5b95e5d7"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 5278,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19610c55aca90b7d"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 570,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1960ea044e35cffd"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1960e9e3e31ffb62"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1011.2,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1960c13762bee7ce"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 2000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19608fb681d59246"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19605d8094da8d85"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 503.2,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19605ae316662f54"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "19604b19fa6dfae4"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 500,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196046825cf562cb"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1032.98,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196045ec98a0d011"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "195ffbac6ac97f8d"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 477,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195fca1a700b63d0"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195f5b12fa08940b"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 2000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195ec6f8b2097e09"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 500,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195ebb47f438eb4b"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 90,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195e7361bdec75bb"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 982,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195e54f073804783"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 908,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195e22ffd91d5d2e"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "198cb2c1e09dbf04"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "198c3bb836168784"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "198b0bc33a68834f"
+  },
+  {
+    "transaction": {
+      "merchant": "Check",
+      "amount": 4678,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "198aca28c04626bd"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 25364,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "198ac9e4279a2bd2"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "198a7bd69353acff"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19889cf05f1d0ccd"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19887a0cc6fc7d48"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 8,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19853dcad607ac2e"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "19841241cc0fafff"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1983a7d1cfcc9c48"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19816715902cedb1"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197f951479a1758a"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 1,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197f3ea8c0cc9889"
+  },
+  {
+    "transaction": {
+      "merchant": "Air",
+      "amount": 4,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197ee90a4ae35d74"
+  },
+  {
+    "transaction": {
+      "merchant": "Air",
+      "amount": 4,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197ee8a6c327f902"
+  },
+  {
+    "transaction": {
+      "merchant": "Air",
+      "amount": 4,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197ee8a672a448c8"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197ee87930f3e268"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197ee43e5545e1d5"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197c8410184e27a4"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197b146775c9a643"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197afd0fef74d390"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197857ed22c11e09"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197810b88cb608ba"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197628fe2a6649c6"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "19753a0620a09009"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "19744d9bc4d68f1f"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1974408c3a2cc9d5"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1974298a84f5a2c2"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "197311c6fd5f437c"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1972f9c9147dae36"
+  },
+  {
+    "transaction": {
+      "merchant": "HDFC Bank",
+      "amount": 10000,
+      "currency": "INR",
+      "date": "2025-08-21",
+      "category": "Other",
+      "transaction_type": "expense",
+      "confidence": 0.7
+    },
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1972f5666961460e"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1970c0e9a47d1193"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196f14e6237b2a78"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196ec477db17e5a3"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196ec328ef75d7f9"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196e817839f66692"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196e78147be30465"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196d7793d6423fff"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196b4472097d0e2d"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196b2e599fdef077"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "196aef2db1b13ffb"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196aecf2b6ad0346"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196aa4da79405629"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196aa49e6200fc88"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196859d85fbee732"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196805dff6a839aa"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "196734399ffc068d"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "1963d6cd1c248df5"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "1961965a0757eda3"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "195fb486415d38d0"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195ebce006b6cbb8"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": false,
+    "email_id": "195dc5edffd878e8"
+  },
+  {
+    "transaction": null,
+    "income": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "investment": null,
+    "is_relevant": true,
+    "email_id": "195dc3857268c530"
+  }
+]

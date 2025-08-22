@@ -1,0 +1,3364 @@
+[
+  {
+    "email_index": 1,
+    "transaction": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "01-Feb-2025 to 31-Jul-2025",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "198ca28a487da3e4"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "ZEPTO MARKETPLACE PRIV",
+      "amount": 3187.63,
+      "currency": "INR",
+      "date": "2025-08-20",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "card_info": null,
+    "is_relevant": true,
+    "email_id": "198c5ae02148d729"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 210.8,
+      "currency": "INR",
+      "date": "2025-08-16",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "card_info": null,
+    "is_relevant": true,
+    "email_id": "198b231c4afc2588"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "CROMA",
+      "amount": 7490,
+      "currency": "INR",
+      "date": "2025-08-15",
+      "category": "Shopping",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "card_info": null,
+    "is_relevant": true,
+    "email_id": "198ad475525a4ff2"
+  },
+  {
+    "email_index": 5,
+    "transaction": null,
+    "subscription": null,
+    "travel": null,
+    "bills": null,
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "August-2025",
+      "total_amount_due": 25364,
+      "minimum_due": 1270,
+      "due_date": "02-09-2025",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "198ac9e4279a2bd2"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 391.8,
+      "currency": "INR",
+      "date": "2025-08-15",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "198ac11ce5e81923"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "August-2025",
+      "total_amount_due": 25364,
+      "minimum_due": 1270,
+      "due_date": "2025-09-02",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "198a89b49bc8db00"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "Hotel Persian Darbar P",
+      "amount": 2607,
+      "currency": "INR",
+      "date": "2025-08-10",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": "Hotel Persian Darbar P",
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": 2607,
+      "charged_to_card": true
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "19893712cdaf633c"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 617.55,
+      "currency": "INR",
+      "date": "2025-08-10",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1989273187dca186"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": "DISTRICT DINING CYBS",
+      "amount": 6628,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1988fe3f95c15530"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "RSP*DISTRICT DINING RZ",
+      "amount": 175,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1988f440471911c7"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 233.48,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1988d88dee517f24"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": "ZOMATO",
+      "amount": 246.8,
+      "currency": "INR",
+      "date": "2025-08-09",
+      "category": "Food",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1988d82c70b44296"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "2025-07 to 2025-07",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1986c12d4e3db211"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.7
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": 23468,
+      "due_date": "2025-08-02",
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": 23468,
+      "minimum_due": null,
+      "due_date": "2025-08-02",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1985f9b4e056f919"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": 23468,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": "HDFC Bank",
+      "amount": 23468,
+      "due_date": "2025-08-02",
+      "charged_to_card": true
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": 23468,
+      "minimum_due": null,
+      "due_date": "2025-08-02",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1985523ac6332079"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1983b6ee86a97448"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.7
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": "2025-08-02",
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "2025-07 to 2025-07",
+      "total_amount_due": 23468,
+      "minimum_due": 1180,
+      "due_date": "2025-08-02",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1980912df40ed055"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": "travelogy.online",
+      "amount": 7159,
+      "currency": "INR",
+      "date": null,
+      "category": "Travel",
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": null,
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": 7159,
+      "charged_to_card": true
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197ee8a7009b2002"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197e99a8b6d4783a"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": "CONFIRM TICKET ONLINE",
+      "amount": 4236,
+      "currency": "INR",
+      "date": "2025-07-07",
+      "category": "Travel",
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.9
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197e5e4dd44afc39"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197c9d35b8d910a4"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "June-2025",
+      "total_amount_due": 81096,
+      "minimum_due": 4060,
+      "due_date": "2025-07-03",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1976e1d92250974c"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "197620a7d9b68c15"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "19753a0620a09009"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "197311c6fd5f437c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1972f9c9147dae36"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": "Online Gaming",
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1972f5666961460e"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.3
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "May-2025",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1972d4f5944c3191"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1970c0e9a47d1193"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.3
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": 250,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196f67215698584c"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.3
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": 250,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196f5dd29341a4fb"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.5
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196f14e6237b2a78"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.5
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196ec477db17e5a3"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.7
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196e78147be30465"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196e7112fd297c09"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "196d7d2e8ac9b193"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "May-2025",
+      "total_amount_due": 7937,
+      "minimum_due": 400,
+      "due_date": "2025-06-02",
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196cdf3aba097b63"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": "0598",
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196b2e599fdef077"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "Apr-2025",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1968dc54418d27e2"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "19689bb83d09beb0"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": 300000,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1962e7eede03815e"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196199e247e9947e"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "19613cbb4ee977aa"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "19604b19fa6dfae4"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "2025-03 to 2025-03",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "195f5b12fa08940b"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "195b2445b26a61e8"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "195a43c615139811"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1959fd47fa2c8569"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1959acf41bc78434"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "19597f17e4885d70"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "19592ca71967f7e8"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1958db71b2a95ddd"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1958d945d116b58c"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "195887831cc85866"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "195833c567bf09bd"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "19576e989b383634"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": true,
+      "statement_period": "2025-02 to 2025-02",
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1955ab4d6f43be31"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "19552d93aa61eb1c"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "expense",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1954fd5bd6496e7d"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": "decline",
+      "card_type": "debit_card",
+      "card_last_four": "3361",
+      "confidence": 0.6
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1954fcc92d425170"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1980e414e2c5848a"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": null,
+      "confidence": 0
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197f6c6ab3adb20f"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": "2025-07-09",
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": "1126",
+      "confidence": 0.4
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "197edf3f8391abd8"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.8
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "197afd0fef74d390"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "197628fe2a6649c6"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": null,
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": null,
+      "card_last_four": "1126",
+      "confidence": 0.1
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": false,
+    "email_id": "1975dbb5a7519fe8"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.3
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196ec328ef75d7f9"
+  },
+  {
+    "email_index": 4,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.4
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196e6bf7d8beb805"
+  },
+  {
+    "email_index": 5,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.5
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196d7793d6423fff"
+  },
+  {
+    "email_index": 1,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.2
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196aecf2b6ad0346"
+  },
+  {
+    "email_index": 2,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.1
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "196047b4fcc6960e"
+  },
+  {
+    "email_index": 3,
+    "transaction": {
+      "merchant": null,
+      "amount": null,
+      "currency": "INR",
+      "date": null,
+      "category": null,
+      "transaction_type": null,
+      "card_type": "credit_card",
+      "card_last_four": null,
+      "confidence": 0.3
+    },
+    "subscription": {
+      "service": null,
+      "amount": null,
+      "billing_cycle": null,
+      "next_billing": null,
+      "charged_to_card": false
+    },
+    "travel": {
+      "airline": null,
+      "hotel": null,
+      "destination": null,
+      "travel_date": null,
+      "booking_amount": null,
+      "charged_to_card": false
+    },
+    "bills": {
+      "utility_type": null,
+      "provider": null,
+      "amount": null,
+      "due_date": null,
+      "charged_to_card": false
+    },
+    "card_info": {
+      "card_statement": false,
+      "statement_period": null,
+      "total_amount_due": null,
+      "minimum_due": null,
+      "due_date": null,
+      "available_limit": null,
+      "rewards_earned": null,x
+      "cashback_earned": null
+    },
+    "is_relevant": true,
+    "email_id": "1958f1668101484d"
+  }
+]

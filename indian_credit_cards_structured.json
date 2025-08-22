@@ -1,0 +1,211 @@
+{
+  "credit_cards": [
+    {
+      "id": 1,
+      "card_name": "Credit Card",
+      "bank": "Unknown",
+      "official_card_image": "/_next/image/?url=%2Fblog-assets%2Fimages%2Fen%2Fstop-watch.webp&w=48&q=75",
+      "joining_fees": 10000,
+      "annual_fees": 10000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Shopping",
+        "Reward",
+        "Travel",
+        "Cashback"
+      ],
+      "features": [
+        "up to 12X rewards on hotel booking, up to 6X rewards on flight booking and 2X rewards on car rental",
+        "Unlimited airport lounge access with 12 guest visits and 0",
+        "5% cashback on online spendsUp to Rs",
+        "3% Cashback Points on e-commerce spends, max",
+        "5% value-back on HPCL fuel spendsUp to 8"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 2,
+      "card_name": "Best Credit Cards in India",
+      "bank": "Unknown",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F04%2FHDFC-Diners-Club-Black-Credit-Card.png&w=256&q=75",
+      "joining_fees": 10000,
+      "annual_fees": 10000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Shopping",
+        "Reward",
+        "Travel",
+        "Cashback"
+      ],
+      "features": [
+        "5% cashback on online spendsUp to Rs",
+        "5% savings on fuel spendsAccelerated value-back at IOCL petrol pumpsUp to 15 reward points per Rs",
+        "5% unlimited cashback on other spendsLow annual fee of Rs",
+        "Up to Rs. 60,000 cashback in a yearFee waived on Rs",
+        "3% cashback on all online spends1"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 3,
+      "card_name": "HDFC Diners Club Black Metal Edition Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F04%2FHDFC-Diners-Club-Black-Credit-Card.png&w=256&q=75",
+      "joining_fees": 10000,
+      "annual_fees": 10000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Shopping",
+        "Reward",
+        "Travel",
+        "Cashback"
+      ],
+      "features": [
+        "5% cashback on online spendsUp to Rs",
+        "5% savings on fuel spendsAccelerated value-back at IOCL petrol pumpsUp to 15 reward points per Rs",
+        "5% unlimited cashback on other spendsLow annual fee of Rs",
+        "Up to Rs. 60,000 cashback in a yearFee waived on Rs",
+        "3% cashback on all online spends1"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 4,
+      "card_name": "Axis Magnus for Burgundy Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FAxis-Magnus-Credit-Card-image.png&w=256&q=75",
+      "joining_fees": 30000,
+      "annual_fees": 30000,
+      "currency": "INR",
+      "categories": [
+        "Reward",
+        "Travel",
+        "Premium"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 5,
+      "card_name": "Axis Atlas Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAxis-Atlas-1.png&w=256&q=75",
+      "joining_fees": 5000,
+      "annual_fees": 5000,
+      "currency": "INR",
+      "categories": [
+        "Reward",
+        "Travel"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 6,
+      "card_name": "HDFC Regalia Gold Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHDFC-Regalia-Gold-Credit-Card.png&w=256&q=75",
+      "joining_fees": 2500,
+      "annual_fees": 2500,
+      "currency": "INR",
+      "categories": [
+        "Shopping",
+        "Reward",
+        "Travel"
+      ],
+      "features": [
+        "up to Rs. 16,000 every year12 domestic & 6 int"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 7,
+      "card_name": "YES BANK Paisabazaar PaisaSave Credit Card",
+      "bank": "YES Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2F500x500-1.png&w=256&q=75",
+      "joining_fees": 0,
+      "annual_fees": 499,
+      "currency": "INR",
+      "categories": [
+        "Shopping",
+        "Cashback"
+      ],
+      "features": [
+        "3% cashback on all online spends1",
+        "5% unlimited cashback on other spendsLow annual fee of Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 8,
+      "card_name": "HSBC TravelOne Credit Card",
+      "bank": "HSBC India",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHSBC-TravelOne-CC.png&w=256&q=75",
+      "joining_fees": 4999,
+      "annual_fees": 4999,
+      "currency": "INR",
+      "categories": [
+        "Reward",
+        "Travel"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 9,
+      "card_name": "Axis Bank SELECT Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2015%2F11%2FAxis-Bank-Select-Credit-Card.png&w=256&q=75",
+      "joining_fees": 3000,
+      "annual_fees": 3000,
+      "currency": "INR",
+      "categories": [
+        "Shopping",
+        "Reward"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 10,
+      "card_name": "Tata Neu Infinity HDFC Bank Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F12%2F500x500.png&w=256&q=75",
+      "joining_fees": 1499,
+      "annual_fees": 1499,
+      "currency": "INR",
+      "categories": [
+        "Shopping"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 11,
+      "card_name": "IndianOil RBL Bank XTRA Credit Card",
+      "bank": "RBL Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIndianOil-RBL-Bank-Credit-Cards.webp&w=256&q=75",
+      "joining_fees": 1500,
+      "annual_fees": 1500,
+      "currency": "INR",
+      "categories": [
+        "Reward"
+      ],
+      "features": [
+        "8.5% savings on fuel spendsAccelerated value-back at IOCL petrol pumpsUp to 15 reward points per Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    }
+  ],
+  "metadata": {
+    "total_cards_extracted": 11,
+    "source": "paisabazaar.com",
+    "extraction_date": "2025-08-21",
+    "extraction_method": "Targeted HTML structure parsing",
+    "html_structure": "div.flex.gap-[30px] > div.flex.flex-col.gap-4.w-full > div.w-full.flex.border",
+    "note": "Extracted using precise HTML structure targeting as specified"
+  }
+}

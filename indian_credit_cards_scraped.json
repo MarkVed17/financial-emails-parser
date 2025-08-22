@@ -1,0 +1,413 @@
+{
+  "credit_cards": [
+    {
+      "id": 1,
+      "card_name": "Credit Card",
+      "bank": "Unknown",
+      "official_card_image": "/blog-assets/images/PaisabazaarLogo.svg",
+      "srcset": "",
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 2,
+      "card_name": "Search Credit Card",
+      "bank": "Unknown",
+      "official_card_image": "/blog-assets/images/searchIcon.svg",
+      "srcset": "",
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 3,
+      "card_name": "Compare from 60+ credit cards",
+      "bank": "Unknown",
+      "official_card_image": "/_next/image/?url=%2Fblog-assets%2Fimages%2Fen%2Fstop-watch.webp&w=48&q=75",
+      "srcset": "/_next/image/?url=%2Fblog-assets%2Fimages%2Fen%2Fstop-watch.webp&w=32&q=75 1x, /_next/image/?url=%2Fblog-assets%2Fimages%2Fen%2Fstop-watch.webp&w=48&q=75 2x",
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [
+        "100% digital & hassle-free journey"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 4,
+      "card_name": "Check Your Credit Card Offers",
+      "bank": "Unknown",
+      "official_card_image": "/blog-assets/images/en/arrow-right.svg",
+      "srcset": "",
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 5,
+      "card_name": "Credit Cards",
+      "bank": "Unknown",
+      "official_card_image": null,
+      "srcset": null,
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 6,
+      "card_name": "Best Credit Cards in India",
+      "bank": "Unknown",
+      "official_card_image": "/blog-assets/images/Filter.svg",
+      "srcset": "",
+      "joining_fees": 10000,
+      "annual_fees": 10000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Dining",
+        "Travel",
+        "Fuel",
+        "Rewards",
+        "Shopping",
+        "Cashback"
+      ],
+      "features": [
+        "3% cashback on all online spends1",
+        "60,000 cashback in a yearFee waived on Rs",
+        "Up to Rs",
+        "5% cashback on online spendsUp to Rs",
+        "Up to 15 reward points per Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 7,
+      "card_name": "HDFC Diners Club Black Metal Edition Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/blog-assets/bank-logos/au-small-finance-bank.svg",
+      "srcset": "",
+      "joining_fees": 10000,
+      "annual_fees": 10000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Dining",
+        "Travel",
+        "Fuel",
+        "Rewards",
+        "Shopping",
+        "Cashback"
+      ],
+      "features": [
+        "3% cashback on all online spends1",
+        "60,000 cashback in a yearFee waived on Rs",
+        "Up to Rs",
+        "5% cashback on online spendsUp to Rs",
+        "Up to 15 reward points per Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 8,
+      "card_name": "Axis Magnus for Burgundy Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FAxis-Magnus-Credit-Card-image.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FAxis-Magnus-Credit-Card-image.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FAxis-Magnus-Credit-Card-image.png&w=256&q=75 2x",
+      "joining_fees": 30000,
+      "annual_fees": 30000,
+      "currency": "INR",
+      "categories": [
+        "Premium",
+        "Rewards",
+        "Travel"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 9,
+      "card_name": "Axis Atlas Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAxis-Atlas-1.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAxis-Atlas-1.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F02%2FAxis-Atlas-1.png&w=256&q=75 2x",
+      "joining_fees": 5000,
+      "annual_fees": 5000,
+      "currency": "INR",
+      "categories": [
+        "Rewards",
+        "Travel"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 10,
+      "card_name": "HDFC Regalia Gold Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHDFC-Regalia-Gold-Credit-Card.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHDFC-Regalia-Gold-Credit-Card.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHDFC-Regalia-Gold-Credit-Card.png&w=256&q=75 2x",
+      "joining_fees": 2500,
+      "annual_fees": 2500,
+      "currency": "INR",
+      "categories": [
+        "Rewards",
+        "Shopping",
+        "Travel"
+      ],
+      "features": [
+        "up to Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 11,
+      "card_name": "YES BANK Paisabazaar PaisaSave Credit Card",
+      "bank": "YES Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2F500x500-1.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2F500x500-1.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2F500x500-1.png&w=256&q=75 2x",
+      "joining_fees": 0,
+      "annual_fees": 499,
+      "currency": "INR",
+      "categories": [
+        "Shopping",
+        "Cashback"
+      ],
+      "features": [
+        "3% cashback on all online spends1",
+        "unlimited cashback on other spendsLow annual fee of Rs",
+        "5% unlimited cashback on other spendsLow annual fee of Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 12,
+      "card_name": "HSBC TravelOne Credit Card",
+      "bank": "HSBC India",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHSBC-TravelOne-CC.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHSBC-TravelOne-CC.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHSBC-TravelOne-CC.png&w=256&q=75 2x",
+      "joining_fees": 4999,
+      "annual_fees": 4999,
+      "currency": "INR",
+      "categories": [
+        "Rewards",
+        "Travel"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 13,
+      "card_name": "Axis Bank SELECT Credit Card",
+      "bank": "Axis Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2015%2F11%2FAxis-Bank-Select-Credit-Card.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2015%2F11%2FAxis-Bank-Select-Credit-Card.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2015%2F11%2FAxis-Bank-Select-Credit-Card.png&w=256&q=75 2x",
+      "joining_fees": 3000,
+      "annual_fees": 3000,
+      "currency": "INR",
+      "categories": [
+        "Rewards",
+        "Shopping"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 14,
+      "card_name": "Tata Neu Infinity HDFC Bank Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F12%2F500x500.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F12%2F500x500.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F12%2F500x500.png&w=256&q=75 2x",
+      "joining_fees": 1499,
+      "annual_fees": 1499,
+      "currency": "INR",
+      "categories": [
+        "Shopping"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 15,
+      "card_name": "IndianOil RBL Bank XTRA Credit Card",
+      "bank": "RBL Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIndianOil-RBL-Bank-Credit-Cards.webp&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIndianOil-RBL-Bank-Credit-Cards.webp&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIndianOil-RBL-Bank-Credit-Cards.webp&w=256&q=75 2x",
+      "joining_fees": 1500,
+      "annual_fees": 1500,
+      "currency": "INR",
+      "categories": [
+        "Fuel",
+        "Rewards"
+      ],
+      "features": [
+        "Up to 8",
+        "CompareIndianOil RBL Bank XTRA Credit CardRewardsFuelRewardsFuelUp to 8",
+        "Up to 15 reward points per Rs",
+        "5% savings on fuel spendsAccelerated value-back at IOCL petrol pumpsUp to 15 reward points per Rs"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 16,
+      "card_name": "HDFC Millennia Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Millennia-Credit-Card-1.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Millennia-Credit-Card-1.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Millennia-Credit-Card-1.png&w=256&q=75 2x",
+      "joining_fees": 1000,
+      "annual_fees": 1000,
+      "currency": "INR",
+      "categories": [
+        "Shopping",
+        "Cashback"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 17,
+      "card_name": "Pre-Approved Credit Cards on Paisabazaar",
+      "bank": "Unknown",
+      "official_card_image": null,
+      "srcset": null,
+      "joining_fees": null,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 18,
+      "card_name": "ICICI Coral Credit Card",
+      "bank": "ICICI Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2025%2F04%2FICICI-Bank-Coral-Credit-Card.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2025%2F04%2FICICI-Bank-Coral-Credit-Card.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2025%2F04%2FICICI-Bank-Coral-Credit-Card.png&w=256&q=75 2x",
+      "joining_fees": 500,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [
+        "Rewards"
+      ],
+      "features": [
+        "Up to 3,000 bonus reward pointsRead MoreCheck EligibilityCompare*Terms & Conditions"
+      ],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 19,
+      "card_name": "HDFC MoneyBack+ Credit Card",
+      "bank": "HDFC Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Moneyback-Credit-Card.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Moneyback-Credit-Card.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FHDFC-Moneyback-Credit-Card.png&w=256&q=75 2x",
+      "joining_fees": 500,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [
+        "Rewards",
+        "Shopping"
+      ],
+      "features": [],
+      "extracted_from": "paisabazaar.com"
+    },
+    {
+      "id": 20,
+      "card_name": "RBL Bank Paisabazaar Duet Credit Card",
+      "bank": "RBL Bank",
+      "official_card_image": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FRBL-Bank-Paisabazaar-Duet-Credit-Card.png&w=256&q=75",
+      "srcset": "/_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FRBL-Bank-Paisabazaar-Duet-Credit-Card.png&w=128&q=75 1x, /_next/image/?url=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2017%2F10%2FRBL-Bank-Paisabazaar-Duet-Credit-Card.png&w=256&q=75 2x",
+      "joining_fees": 0,
+      "annual_fees": null,
+      "currency": "INR",
+      "categories": [
+        "Cashback"
+      ],
+      "features": [
+        "1% cashback on all online and offline spendsRead MoreCheck EligibilityCompare*Terms & Conditions"
+      ],
+      "extracted_from": "paisabazaar.com"
+    }
+  ],
+  "metadata": {
+    "total_cards": 115,
+    "source": "paisabazaar.com",
+    "extraction_date": "2025-08-21",
+    "method": "BeautifulSoup web scraping with srcset extraction",
+    "note": "Images extracted from srcset attribute when available for best quality"
+  },
+  "raw_images_found": [
+    {
+      "src": "/blog-assets/bank-logos/axis-bank.svg",
+      "srcset": "",
+      "alt": "Axis Bank",
+      "final_url": "/blog-assets/bank-logos/axis-bank.svg"
+    },
+    {
+      "src": "/blog-assets/bank-logos/hdfc-bank.svg",
+      "srcset": "",
+      "alt": "HDFC Bank",
+      "final_url": "/blog-assets/bank-logos/hdfc-bank.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/travel.svg",
+      "srcset": "",
+      "alt": "Travel",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/travel.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/cards/assets/images/purple_crown.svg",
+      "srcset": "",
+      "alt": "Premium",
+      "final_url": "https://www.paisabazaar.com/cards/assets/images/purple_crown.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/rewards.svg",
+      "srcset": "",
+      "alt": "Rewards",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/rewards.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/lounge-access.svg",
+      "srcset": "",
+      "alt": "Lounge Access",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/lounge-access.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/shopping.svg",
+      "srcset": "",
+      "alt": "Shopping",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/shopping.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/cashback.svg",
+      "srcset": "",
+      "alt": "Cashback",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/cashback.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/shopping.svg",
+      "srcset": "",
+      "alt": "Online Shopping",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/shopping.svg"
+    },
+    {
+      "src": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/fuel.svg",
+      "srcset": "",
+      "alt": "Fuel",
+      "final_url": "https://www.paisabazaar.com/wp-content/themes/Impreza-child/framework/images/card-categories/fuel.svg"
+    }
+  ]
+}

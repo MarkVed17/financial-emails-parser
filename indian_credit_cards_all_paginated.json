@@ -1,0 +1,10 @@
+{
+  "credit_cards": [],
+  "metadata": {
+    "total_cards_extracted": 0,
+    "source": "paisabazaar.com",
+    "extraction_date": "2025-08-22",
+    "extraction_method": "Selenium pagination + BeautifulSoup parsing",
+    "note": "Extracted using automated pagination to load all cards"
+  }
+}
